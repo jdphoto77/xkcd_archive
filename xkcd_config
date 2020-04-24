@@ -1,0 +1,12 @@
+####################
+# Config paramters for Youtube Archive Code:
+# webhook --> Webhook for Slack Integration
+# archive_dir --> Path to store XKCD images
+# user --> mariadb user
+# password --> mariadb password
+####################
+
+readonly webhook=""
+readonly archive_dir=""
+readonly user=""
+readonly password=""
